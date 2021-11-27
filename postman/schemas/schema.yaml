@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: '1'
-  title: 'new test wala api v2'
+  title: 'new test wala api v1'
 servers:
   - url: 'localhost:3000'
 paths:
